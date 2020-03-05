@@ -1,2 +1,0 @@
-# AlphaAppTest
-Created with CodeSandbox
